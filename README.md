@@ -1,7 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ishara+Dhanushan+%F0%9F%91%8B;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Building+things+that+solve+real+problems" alt="Typing SVG" />
+<br/>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Ishara+Dhanushan+%F0%9F%91%8B;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Node.js+%7C+Express.js+%7C+NestJS+%7C+Spring+Boot;Building+Scalable%2C+User-Focused+Applications" alt="Typing SVG" />
+
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ishara-dhanushan/)
