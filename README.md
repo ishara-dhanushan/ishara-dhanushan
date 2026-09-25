@@ -8,6 +8,7 @@
 <br/>
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=20)](https://ishara-dhanushan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ishara-dhanushan/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoWidth=20)](https://medium.com/@isharadh2002)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:isharadh2002@gmail.com)
@@ -164,6 +165,7 @@ A pair of React Native mobile apps: a lightweight to-do list with Zustand-based 
 
 ### 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=20)](https://ishara-dhanushan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ishara-dhanushan/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoWidth=20)](https://medium.com/@isharadh2002)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:isharadh2002@gmail.com)
